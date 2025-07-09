@@ -1,13 +1,7 @@
 from src.pages.sitemap import SitemapPage
 from src.config import BASE_URL
 from src.pages.homepage import HomePage
-from src.pages.destinationspage import DestinationsPage
-from time import sleep 
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import time 
+from src.pages.destinationspage import DestinationsPage 
     
 
 
